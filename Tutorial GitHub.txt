@@ -1,0 +1,6 @@
+Comandos de GitHub
+
+1-Primero tengo que tener un repositorio creado (Con archivo README)
+2-Para clonarlo uno git clone (+link)
+3-Agregar los archivos nuevos o modificados git add .
+4-Hacer commit https://github.com/Cristian385/laboratorio1.git
